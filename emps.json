@@ -1,0 +1,17 @@
+{
+    "E101": {
+        "emp_id": "E101",
+        "name": "John",
+        "salary": 50000
+    },
+    "E102": {
+        "emp_id": "E102",
+        "name": "Alice",
+        "salary": 60000
+    },
+    "E103": {
+        "emp_id": "E103",
+        "name": "Bob",
+        "salary": 55000
+    }
+}
